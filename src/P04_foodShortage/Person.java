@@ -1,7 +1,6 @@
-package P03_SayHello;
+package P04_foodShortage;
 
 public interface Person {
-
     String getName();
-    String sayHello();
+    int getAge();
 }
